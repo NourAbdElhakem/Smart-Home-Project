@@ -1,6 +1,6 @@
 # Smart-Home-Project
 Control System of Home with Fire System Alarm and Fire Fighting.
-My Smart home project using AVR (ATmega32) Peripheral used : (DIO - ADC - External Interrupt - Timer - UART ).
+My Smart home project using AVR (ATmega32) Peripheral used : (DIO - ADC - Interrupt - Timer - UART ).
 
 Desc : The project consists of 2 Micro Controller (Master & Slave) are connected together with UART Protocol .
 
